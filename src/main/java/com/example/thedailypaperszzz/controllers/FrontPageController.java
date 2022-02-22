@@ -1,4 +1,4 @@
-package com.example.thedailypaperszzz.controller;
+package com.example.thedailypaperszzz.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
